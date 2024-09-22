@@ -9,9 +9,6 @@
 - **Sorting**: Query results sorted by specific columns.
 - **Join Queries**: Use INNER, LEFT, RIGHT, and FULL OUTER JOIN operations.
 
-## Usage
-
-Clone the repository and run the scripts in a MySQL client to interact with the database.
 
 ## Requirements
 
